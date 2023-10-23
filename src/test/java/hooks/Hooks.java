@@ -15,10 +15,8 @@ public class Hooks {
     public  void startingBrowser() throws Exception {
         DriverManager driverManager = new DriverManager();
         BrowsersList browser = PropertyReader.getBrowserName();
-        //System.out.println(browser);
         driver = driverManager.setBrowser(browser);
         driver.manage().window().maximize();
-        //System.out.println(PropertyReader.getBaseUrl());
         driver.get(PropertyReader.getBaseUrl());
         ScenarioContext.save(DRIVER, driver);
     }

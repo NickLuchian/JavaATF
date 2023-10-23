@@ -18,4 +18,6 @@ public abstract class BasePage {
     public String getTitle() {
         return driver.getTitle();
     }
+
+    public abstract void validateUrl();
 }

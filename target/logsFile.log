@@ -1,64 +1,230 @@
-15:43:28 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
-15:43:31 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 117.0.5938.149 (resolved driver for Chrome 117)
-15:43:31 [main] INFO  i.g.bonigarcia.wdm.online.Downloader - Downloading https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.149/win64/chromedriver-win64.zip
-15:43:33 [main] INFO  i.g.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file chromedriver-win64.zip
-15:43:33 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\117.0.5938.149\chromedriver.exe
-15:44:37 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
-15:44:38 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 117.0.5938.149 (resolved driver for Chrome 117)
-15:44:38 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\117.0.5938.149\chromedriver.exe
-15:48:40 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
-15:48:41 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 117.0.5938.149 (resolved driver for Chrome 117)
-15:48:42 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\117.0.5938.149\chromedriver.exe
-15:52:53 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
-15:52:54 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 117.0.5938.149 (resolved driver for Chrome 117)
-15:52:54 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\117.0.5938.149\chromedriver.exe
-15:55:54 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
-15:55:55 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 117.0.5938.149 (resolved driver for Chrome 117)
-15:55:55 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\117.0.5938.149\chromedriver.exe
-16:00:32 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
-16:00:33 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 117.0.5938.149 (resolved driver for Chrome 117)
-16:00:33 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\117.0.5938.149\chromedriver.exe
-16:01:17 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
-16:01:18 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 117.0.5938.149 (resolved driver for Chrome 117)
-16:01:18 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\117.0.5938.149\chromedriver.exe
-16:09:19 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
-16:09:19 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 117.0.5938.149 (resolved driver for Chrome 117)
-16:09:20 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\117.0.5938.149\chromedriver.exe
-12:15:16 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
-12:15:18 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using msedgedriver 117.0.2045.60 (resolved driver for Edge 117)
-12:15:18 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
-12:15:20 [main] INFO  i.g.bonigarcia.wdm.online.Downloader - Downloading https://msedgedriver.azureedge.net/117.0.2045.60/edgedriver_win64.zip
-12:15:21 [main] INFO  i.g.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file edgedriver_win64.zip
-12:15:22 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.edge.driver as C:\Users\nluchian\.cache\selenium\msedgedriver\win64\117.0.2045.60\msedgedriver.exe
-13:42:35 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
-13:42:38 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using msedgedriver 117.0.2045.60 (resolved driver for Edge 117)
-13:42:38 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.edge.driver as C:\Users\nluchian\.cache\selenium\msedgedriver\win64\117.0.2045.60\msedgedriver.exe
-14:11:13 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
-14:11:15 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
-14:11:16 [main] INFO  i.g.bonigarcia.wdm.online.Downloader - Downloading https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/118.0.5993.70/win64/chromedriver-win64.zip
-14:11:19 [main] INFO  i.g.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file chromedriver-win64.zip
-14:11:19 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
-14:30:36 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
-14:30:36 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
-14:30:36 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
-14:32:10 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
-14:32:10 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
-14:32:10 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
-14:35:31 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
-14:35:31 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
-14:35:31 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
-14:38:23 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
-14:38:24 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
-14:38:24 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
-14:43:57 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
-14:43:57 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
-14:43:57 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
-14:50:05 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
-14:50:05 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
-14:50:05 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
-14:59:11 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
-14:59:12 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
-14:59:12 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
-16:46:55 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
-16:46:57 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
-16:46:57 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+19:57:24 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+19:57:25 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+19:57:25 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+20:02:16 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+20:02:17 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+20:02:17 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+11:21:04 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+11:21:06 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+11:21:06 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+11:34:20 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+11:34:20 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+11:34:20 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+11:40:22 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+11:40:22 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+11:40:22 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+13:21:13 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+13:21:15 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+13:21:15 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+13:23:16 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+13:23:16 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+13:23:17 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+13:30:48 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+13:30:49 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+13:30:49 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+13:42:54 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+13:42:55 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+13:42:55 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+13:53:41 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+13:53:41 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+13:53:42 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+16:39:56 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+16:39:58 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+16:39:58 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+18:07:45 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+18:07:46 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+18:07:46 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+09:55:59 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+09:56:01 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+09:56:01 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+10:00:36 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+10:00:36 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+10:00:36 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+10:15:53 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+10:15:54 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+10:15:54 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+10:19:26 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+10:19:27 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+10:19:27 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+12:44:57 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+12:44:59 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+12:44:59 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+12:49:21 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+12:49:22 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+12:49:22 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+12:51:29 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+12:51:29 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+12:51:29 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+12:55:15 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+12:55:15 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+12:55:15 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+12:58:47 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+12:58:48 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+12:58:48 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+13:13:24 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+13:13:26 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+13:13:26 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+13:16:22 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+13:16:23 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+13:16:23 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+13:18:21 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+13:18:22 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+13:18:22 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+13:22:45 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+13:22:46 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+13:22:46 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+13:28:16 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+13:28:17 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+13:28:17 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+13:41:21 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+13:41:22 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+13:41:22 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+17:25:27 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+17:25:29 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+17:25:29 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+11:06:45 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+11:06:46 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+11:06:46 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+13:20:15 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+13:20:20 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+13:20:20 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+13:47:05 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+13:47:06 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+13:47:06 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+13:50:28 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+13:50:29 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+13:50:29 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+15:55:10 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+15:55:11 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+15:55:12 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+15:55:37 [main] INFO  c.s.magento.pages.HomePage - user is on home page
+15:59:01 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+15:59:02 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+15:59:02 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+15:59:26 [main] INFO  c.s.magento.pages.HomePage - user is on home page
+16:01:34 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+16:01:34 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+16:01:34 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+16:01:56 [main] INFO  c.s.magento.pages.HomePage - user is on home page
+16:20:26 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+16:20:26 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+16:20:26 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+16:20:52 [main] INFO  c.s.magento.pages.HomePage - user is on home page
+16:23:19 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+16:23:20 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+16:23:20 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+16:23:46 [main] INFO  c.s.magento.pages.HomePage - user is on home page
+16:25:54 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+16:25:54 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+16:25:54 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+16:26:20 [main] INFO  c.s.magento.pages.HomePage - user is on home page
+16:26:24 [main] INFO  c.s.magento.pages.SearchItemsPage - user is on search items page
+16:29:45 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+16:29:46 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+16:29:46 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+16:30:11 [main] INFO  c.s.magento.pages.HomePage - user is on home page
+16:30:15 [main] INFO  c.s.magento.pages.SearchItemsPage - user is on search items page
+16:34:32 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+16:34:33 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+16:34:33 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+16:34:57 [main] INFO  c.s.magento.pages.HomePage - user is on home page
+16:35:00 [main] INFO  c.s.magento.pages.SearchItemsPage - user is on search items page
+16:45:19 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+16:45:19 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+16:45:19 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+16:45:46 [main] INFO  c.s.magento.pages.HomePage - user is on home page
+16:45:49 [main] INFO  c.s.magento.pages.SearchItemsPage - user is on search items page
+16:51:42 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+16:51:43 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+16:51:43 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+16:52:08 [main] INFO  c.s.magento.pages.HomePage - user is on home page
+16:52:12 [main] INFO  c.s.magento.pages.SearchItemsPage - user is on search items page
+16:58:10 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+16:58:13 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+16:58:13 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+16:58:38 [main] INFO  c.s.magento.pages.HomePage - user is on home page
+16:58:42 [main] INFO  c.s.magento.pages.SearchItemsPage - user is on search items page
+17:03:01 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+17:03:02 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+17:03:02 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+17:03:27 [main] INFO  c.s.magento.pages.HomePage - user is on home page
+17:03:30 [main] INFO  c.s.magento.pages.SearchItemsPage - user is on search items page
+17:06:09 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+17:06:09 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+17:06:09 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+17:06:34 [main] INFO  c.s.magento.pages.HomePage - user is on home page
+17:06:38 [main] INFO  c.s.magento.pages.SearchItemsPage - user is on search items page
+17:12:29 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+17:12:30 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+17:12:30 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+17:12:57 [main] INFO  c.s.magento.pages.HomePage - user is on home page
+17:13:01 [main] INFO  c.s.magento.pages.SearchItemsPage - user is on search items page
+17:14:59 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+17:14:59 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+17:14:59 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+17:15:24 [main] INFO  c.s.magento.pages.HomePage - user is on home page
+17:15:28 [main] INFO  c.s.magento.pages.SearchItemsPage - user is on search items page
+17:16:59 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+17:16:59 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+17:16:59 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+17:17:22 [main] INFO  c.s.magento.pages.HomePage - user is on home page
+17:17:26 [main] INFO  c.s.magento.pages.SearchItemsPage - user is on search items page
+17:28:24 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+17:28:26 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+17:28:26 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+17:28:51 [main] INFO  c.s.magento.pages.HomePage - user is on home page
+17:28:55 [main] INFO  c.s.magento.pages.SearchItemsPage - user is on search items page
+17:30:46 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+17:30:46 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+17:30:47 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+17:31:12 [main] INFO  c.s.magento.pages.HomePage - user is on home page
+17:31:16 [main] INFO  c.s.magento.pages.SearchItemsPage - user is on search items page
+17:31:34 [main] INFO  c.s.magento.pages.CartPage - user is on cart page
+17:39:15 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+17:39:16 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+17:39:16 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+17:39:42 [main] INFO  c.s.magento.pages.HomePage - user is on home page
+17:39:46 [main] INFO  c.s.magento.pages.SearchItemsPage - user is on search items page
+17:40:14 [main] INFO  c.s.magento.pages.CartPage - user is on cart page
+17:40:48 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+17:40:49 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+17:40:49 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+17:41:15 [main] INFO  c.s.magento.pages.HomePage - user is on home page
+17:41:19 [main] INFO  c.s.magento.pages.SearchItemsPage - user is on search items page
+17:41:46 [main] INFO  c.s.magento.pages.CartPage - user is on cart page
+17:43:06 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+17:43:07 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+17:43:07 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+17:43:31 [main] INFO  c.s.magento.pages.HomePage - user is on home page
+17:43:35 [main] INFO  c.s.magento.pages.SearchItemsPage - user is on search items page
+17:44:03 [main] INFO  c.s.magento.pages.CartPage - user is on cart page
+17:47:21 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+17:47:22 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+17:47:22 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+17:47:47 [main] INFO  c.s.magento.pages.HomePage - user is on home page
+17:47:51 [main] INFO  c.s.magento.pages.SearchItemsPage - user is on search items page
+17:48:19 [main] INFO  c.s.magento.pages.CartPage - user is on cart page
+17:48:40 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+17:48:41 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+17:48:41 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+17:49:06 [main] INFO  c.s.magento.pages.HomePage - user is on home page
+17:49:09 [main] INFO  c.s.magento.pages.SearchItemsPage - user is on search items page
+17:49:37 [main] INFO  c.s.magento.pages.CartPage - user is on cart page
+17:52:24 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+17:52:25 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+17:52:25 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+17:52:51 [main] INFO  c.s.magento.pages.HomePage - user is on home page
+17:52:54 [main] INFO  c.s.magento.pages.SearchItemsPage - user is on search items page
+17:53:22 [main] INFO  c.s.magento.pages.CartPage - user is on cart page
+17:54:36 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+17:54:36 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+17:54:36 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+17:55:01 [main] INFO  c.s.magento.pages.HomePage - user is on home page
+17:55:04 [main] INFO  c.s.magento.pages.SearchItemsPage - user is on search items page
+17:55:32 [main] INFO  c.s.magento.pages.CartPage - user is on cart page
+14:20:54 [main] INFO  util.PropertyReader - Properties were read from atf.properties file
+14:20:56 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 118.0.5993.70 (resolved driver for Chrome 118)
+14:20:56 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\nluchian\.cache\selenium\chromedriver\win64\118.0.5993.70\chromedriver.exe
+14:21:45 [main] INFO  c.s.magento.pages.HomePage - user is on home page
+14:21:55 [main] INFO  c.s.magento.pages.SearchItemsPage - user is on search items page
+14:22:30 [main] INFO  c.s.magento.pages.CartPage - user is on cart page
